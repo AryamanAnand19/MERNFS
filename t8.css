@@ -1,0 +1,7 @@
+table{
+    background-color: gray;
+}
+
+td:hover{
+    background-color: orange;    
+}
